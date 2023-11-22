@@ -1,19 +1,17 @@
-# Technical Test VhiWEB (technical-test-vhiweb)
+# Technical Test PT Bionic Teknologi Indenesia (technical-test-vhiweb)
 
-Test Technical for VhiWEB
+Test Technical for PT Bionic Teknologi Indenesia
 
-## USER LOGIN
-- email : eve.holt@reqres.in
-- password: cityslicka
+## JAWABAN SOAL A - B
+- A : https://test-fe-bionic.vercel.app/#/soal-a
+- B : https://test-fe-bionic.vercel.app/#/soal-b
 
-## FITUR
-- Login
-- List User Data
-- Detail User Data
-- Search User Data
+
+## JAWABAN SOAL C - G
+- https://docs.google.com/document/d/1VT9iWCoTFcSUU-WdM6W27oCK7su6tU7r3zBiGS0BfVs/edit?usp=sharing
 
 ## HOSTED PROJECT
-https://test-vhi-web.vercel.app/
+https://test-fe-bionic.vercel.app/#/
 
 ## Install the dependencies
 ```bash
