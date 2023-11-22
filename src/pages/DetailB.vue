@@ -19,7 +19,7 @@
           @submit="onSubmit"
         >
           <div class="row">
-            <span class="text-h4">Send Your Job Application</span>
+            <span class="text-h4">Send Your Job Application</span> <br>
             <div
               class="col-lg-6 col-md-6 col-sm-5 col-xs-12 q-py-md q-px-xs"
             >
